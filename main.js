@@ -74,3 +74,7 @@ console.log(someeyes)
 
 let taller = characters.some(tall => tall[1] > 210);
 console.log(taller)
+
+
+
+
